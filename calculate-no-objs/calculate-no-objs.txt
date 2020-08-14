@@ -1,0 +1,1 @@
+WAP that will display the number of objects that you've created for the particular class.
